@@ -1,0 +1,6 @@
+framework module Pods_HSGHealthTests {
+  umbrella header "Pods-HSGHealthTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
